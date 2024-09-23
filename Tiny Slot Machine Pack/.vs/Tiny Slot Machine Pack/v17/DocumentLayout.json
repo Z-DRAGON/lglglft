@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tuanjie\\Tiny Slot Machine Pack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|e:\\tuanjie\\tiny slot machine pack\\assets\\slotmachinepack\\scripts\\paydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|solutionrelative:assets\\slotmachinepack\\scripts\\paydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|e:\\tuanjie\\tiny slot machine pack\\assets\\slotmachinepack\\scripts\\slotmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|solutionrelative:assets\\slotmachinepack\\scripts\\slotmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|e:\\tuanjie\\tiny slot machine pack\\assets\\slotmachinepack\\documents\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9CC7935-BEB4-37F0-06C5-D49D95006B6B}|Assembly-CSharp.csproj|solutionrelative:assets\\slotmachinepack\\documents\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlotMachine.cs",
+              "DocumentMoniker": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Scripts\\SlotMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\SlotMachinePack\\Scripts\\SlotMachine.cs",
+              "ToolTip": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Scripts\\SlotMachine.cs",
+              "RelativeToolTip": "Assets\\SlotMachinePack\\Scripts\\SlotMachine.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAmwC4BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:58:06.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayData.cs",
+              "DocumentMoniker": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Scripts\\PayData.cs",
+              "RelativeDocumentMoniker": "Assets\\SlotMachinePack\\Scripts\\PayData.cs",
+              "ToolTip": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Scripts\\PayData.cs",
+              "RelativeToolTip": "Assets\\SlotMachinePack\\Scripts\\PayData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:57:23.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Documents\\ReadMe.txt",
+              "RelativeDocumentMoniker": "Assets\\SlotMachinePack\\Documents\\ReadMe.txt",
+              "ToolTip": "E:\\tuanjie\\Tiny Slot Machine Pack\\Assets\\SlotMachinePack\\Documents\\ReadMe.txt",
+              "RelativeToolTip": "Assets\\SlotMachinePack\\Documents\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-17T17:57:13.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
